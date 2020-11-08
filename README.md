@@ -1,4 +1,8 @@
 # truecaller_bot
+Pluggable
+[Telegram](https://telegram.org) bot based on
+[Pyrogram](https://github.com/pyrogram/pyrogram).
+
 ## About the bot
 
 >Simply the purpose of this bot is to gather information about a phone number(only indian numbers).
